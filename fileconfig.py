@@ -10,6 +10,7 @@ multiplier_dict = {
 	'date_format': '%d %b %Y'
 }
 
+
 livefresh_dict = {
 	'name': 'livefresh',
 	'truncate_pattern': 'date',
